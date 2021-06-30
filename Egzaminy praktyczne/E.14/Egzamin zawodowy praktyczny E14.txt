@@ -1,4 +1,7 @@
 Egzamin praktyczny z kwalifikacji E.14
+<<<<<<< Updated upstream
 Obowiązuje od 2013 roku.
 W folderach zostały umieszczone pliki niezbędne do prawidłowego rozwiązania zadania egzaminacyjnego
 W nazwie folderu jest oznacznei kwalifikacji, następnie roku, sesji w jakiej był zdawany oraz numeru wykonanego zadania
+=======
+>>>>>>> Stashed changes
