@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Egzamin praktyczny z kwalifikacji INF.03
 Obowiązuje od 2022 roku
+=======
+Egzamin praktyczny z kwalifikacji INF.03
+>>>>>>> Stashed changes
