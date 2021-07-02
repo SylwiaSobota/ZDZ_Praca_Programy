@@ -1,0 +1,1 @@
+--odpowiedzi dotyczace baz danych
