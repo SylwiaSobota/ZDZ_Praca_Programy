@@ -38,10 +38,6 @@
                     echo "<p>Telefon kontaktowy: ".$wiersz1[0]."</p>";
                 }
                 mysqli_close($con);
-                
-                
-                
-                
                 ?>                
             </div>
             <section class="stopka">
