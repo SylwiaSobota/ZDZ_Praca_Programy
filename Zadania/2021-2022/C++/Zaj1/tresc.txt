@@ -1,0 +1,1 @@
+1. Napisz program, który wyświetli na ekranie Twoje imię i nazwisko oraz rok urodzenia. Dane mają być podane z klawiatury.
