@@ -1,0 +1,1 @@
+1. Napisz prorgam, który sprawdzi czy liczba jest parzysta.
