@@ -1,1 +1,5 @@
-1. Napisz prorgam, który sprawdzi czy liczba jest parzysta.
+1. Napisz program, który sprawdzi czy liczba jest parzysta.
+2. Napisz program, który sprawdzi czy liczba jest podzielna przez 4 i jednocześnie przez 3.
+3. Napisz program, który wypisze na ekranie 6 razy słowo "Witaj".
+4. Napisz program, który wypisze tyle razy słowo "hej", jaką liczbę poda użytkownik.
+5. Napisz program, który będzie pobierał od uzytkownika cyfry, dopóki nie poda cyfry 0.
