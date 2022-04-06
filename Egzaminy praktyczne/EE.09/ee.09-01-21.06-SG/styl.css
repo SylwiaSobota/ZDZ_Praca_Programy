@@ -1,0 +1,26 @@
+body {
+    font-family: "Georgia";
+}
+div#baner {
+    background-color: #005B4F;
+    color: white;
+    text-align: center;
+    font-size: 50%;
+    height: 20px;
+}
+div.glowny {
+    background-color: #E1E2E1;
+    height: 400px;
+    padding: 20px;
+    overflow: scroll;
+}
+div#zdjecie {
+}
+div#opis {
+}
+div#linia{
+}
+footer#s1, footer#s2 {
+    background-color: #005B4F;
+    color: white;
+}
