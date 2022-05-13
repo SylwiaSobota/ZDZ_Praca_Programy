@@ -1,0 +1,2 @@
+Utwórz bazę danych o nazwie 'szkola'.
+Utwóz tabele 
