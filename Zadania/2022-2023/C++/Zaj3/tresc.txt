@@ -1,0 +1,4 @@
+1. Napisz program, który będzie pobierał od użytkownika liczby i zapisywał je w tablicy. Najpierw użytkownik podaje liczbę rozmiaru tablicy, następnie ilość liczb jaką zadeklarował. Na końcu wypisuje je na ekranie w jednej lini.
+2. Napisz prorgam, który pobiera od użytkownika 8 liczb do tablicy. Następnie sprawdza czy dana liczba jest podzielna przez 3. Na końcu wypisze sumę liczb podzielnych przez 3. 
+3. Napisz program, który sprawdzi w tablicy 20-elementowej ile uzytkownik podał liczb parzystych.
+ 
