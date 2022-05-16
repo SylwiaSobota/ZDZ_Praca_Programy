@@ -1,2 +1,0 @@
-1. Napisz program, który wyświetli na ekranie Twoje imię i nazwisko oraz rok urodzenia. Dane mają być podane z klawiatury.
-2. Napisz program, który wyświetli na ekranie  ciąg 5 liczb podanych z klawiatury. Program nie może używać pętli i tablic. 
