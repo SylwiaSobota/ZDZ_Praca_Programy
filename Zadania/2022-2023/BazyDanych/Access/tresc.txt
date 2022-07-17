@@ -1,1 +1,2 @@
-W oparciu o pliki txt wykonaj poniższe zadania.
+1. Utwórz nową bazę danych o nazwie "Szkola"
+2. Utwórz tabelę z polami: 
