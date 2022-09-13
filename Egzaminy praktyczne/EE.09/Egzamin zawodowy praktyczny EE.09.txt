@@ -4,3 +4,4 @@ Obowiązuje od 2020 roku
 
 Egzamin praktyczny z kwalifikacji EE.09
 
+w folderach zamieszczono rozwiązania arkuszy. Nazwa folderu to oznaczenie kwalifikacji-numer_zadania-rok.sesja-wersja
