@@ -1,0 +1,46 @@
+body {
+    font-family: "Georgia";
+}
+div.gorny1, div.gorny2 {/*kolor tła RGB: 197, 85, 160; wyrównanie tekstu do środka,
+    szerokość 50%, wysokość 180 px*/
+    background-color: rgb(197, 85, 160);
+    text-align: center;
+    width: 50%;
+    height: 180px;
+    float: left;
+}
+/*kolor tła RGB: 246, 226, 222; wyrównanie tekstu do środka, wysokość
+100 px, marginesy wewnętrzne 10 px*/
+div.baner, footer {
+    background-color: rgb(246,226,222);
+    text-align: center;
+    height: 100px;
+    padding: 10px;
+    clear: both;
+}
+/*wspólne dla bloków głównych: kolor tła RGB: 197, 85, 160; biały kolor czcionki, szerokość 50%, wysokość 400 px*/
+div.lewy, div.prawy {
+    background-color:rgb(197, 85, 160);
+    color: white;
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+/*odnośnika „Zamówienie” z drugiego bloku górnego: tło w postaci obrazu cukierki1, margines wewnętrzny prawy 70 px, dolny 120 px, rozmiar czcionki 150%, bez podkreślenia*/
+div.gorny2 a {
+    background-image: url("cukierki1.jpg");
+    padding-right: 70px;
+    padding-bottom: 120px;
+    font-size: 150%;
+    text-decoration: none;
+}
+/*tabeli i komórki tabeli: obramowanie 2 px, linią ciągłą niebieską; marginesy zewnętrzne 20 px, wewnętrzne 10 px*/
+table, td {
+    border: 2px solid blue;
+    margin: 20px;
+    padding: 10px;
+}
+h2 {
+    letter-spacing: 10px;
+    font-size: 200%;
+}
