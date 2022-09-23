@@ -1,0 +1,5 @@
+1. utwórz nowy plik o nazwie index.html oraz skrypt.js
+2. W pliku index.html napisz szablon strony internowej z połączonym plikiem js.
+3. W pliku skryt.js zadeklaruj 2 zmienne x=2 i y=19.
+4. Wykonaj podstawowe obliczenia arytmetyczne związane z liczbami. 
+5. Wyniki wyświetl w postaci okien informacyjnych. 
