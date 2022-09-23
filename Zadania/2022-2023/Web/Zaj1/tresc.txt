@@ -1,1 +1,2 @@
-Utwórz plik index.html
+1. Utwórz plik index.html
+2. Napisz szablon strony internetowej, gdzie tytuł widoczny w karcie przeglądarki to Twoje nazwisko. 
