@@ -2,7 +2,6 @@
 2. W pliku HTML:
 a) stwórz szablon strony internetowej z podłączonym plikiem js.
 b) dołącz styl CSS zapisany w pliku styl1.css(nie jest utworzony).
-c) utwórz formularz z dwoma polami tekstowymi, gdzie jeden będzie posiadał napis "Podaj liczbę a:" a drugi "Podaj liczbę b:";
 3. W pliku JS:
-a) pobierz dane z formularza i zapisz na zmiennych a i b,
+a) pobierz dane od użytkownika i zapisz na zmiennych a i b,
 b) w nowych akapitach wypisz sumę, różnicę, iloczyn i iloraz wykonany na liczbach.
