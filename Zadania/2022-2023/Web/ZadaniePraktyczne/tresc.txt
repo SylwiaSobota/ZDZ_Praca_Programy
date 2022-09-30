@@ -1,0 +1,6 @@
+Wykonaj wstępną aplikację internetową z wiadomościami o kontynentach.
+W tym celu utwórz plik index.html oraz pliki z nazwami kontynentów. 
+W pliku index należy opisać do czego służy aplikacja. np. Witaj na stronie..... . 
+Dodatkowo ma pojawić się odnośnik do stron z kontynentami. 
+W plikach o kontynetach należy zawrzeć około 5 ciekawostek o kontynencie. Dodatkowo ma byc możliwość powrotu do strony głównej.
+Formatowanie pozostawiam do waszej dyspozycji, przy czym nie nalezy używać CSS bez wiedzy co to robi (czytaj: skopiowałem se z neta i działa, ale nie mam pojęcia jak)
