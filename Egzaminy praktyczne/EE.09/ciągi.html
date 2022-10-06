@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Ciągi</title>
+    </head>
+    <body>
+        <label>Pierwszy wyraz ciągu: <input type="text" id="a1"></label><br>
+        <label>Różnica ciągu: <input type="text" id="r"></label><br>
+        <label>Liczba wyrazów w ciągu: <input type="text" id="n"></label>
+        <button onclick="generuj()">Generuj ciąg</button>
+        <p id="wynik"></p>
+
+        <script>
+             function generuj()
+            {
+                var a1 = document.getElementById('a1').value;
+                a1 = parseInt(a1);
+                var r = document.getElementById('r').value;
+                r = parseInt(r);
+                var n = document.getElementById('n').value;
+                n = parseInt(n);
+                var wynik = "Ciąg artmetyczny zawiera wyrazy: ";
+                wynik += a1;
+                for(var i = 1; i < n; i++) 
+                {
+                    a1 = a1 + r;
+                    wynik += ", " + a1;
+                }
+                
+                document.getElementById('wynik').innerHTML = wynik;
+            }
+
+        </script>
+    </body>
+</html>
