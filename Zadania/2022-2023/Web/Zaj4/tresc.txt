@@ -1,0 +1,6 @@
+1. Utwórz plik o nazwie planlekcji.html
+2. Tytuł strony ustaw jako Plan lekcji w roku szkolnym 2022-2023
+3. W akapicie zapisz: obowiązuje od 01.10.2022
+4. Stwórz tabelę, w której jako wiersz nagłówkowy będą dni tygodnia.
+5. Pierwsza kolumna to dzwonki, gdzie minuty są zapisane w indeksie górnym.
+6. Druga i kolejne zawierają plan lekcji na kolejne dni. 
