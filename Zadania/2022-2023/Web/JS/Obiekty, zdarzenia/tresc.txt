@@ -1,0 +1,6 @@
+Wykorzystując wiedzę z poprzedniej lekcji wykonaj poniższe zadania:
+1. Utwórz plik index.html i skrypt.js
+2. Zadeklaruj kodowanie polskich znaków oraz dołącz plik skrypt.js.
+3. W HTML zawrzyj 4 przyciski: zielony, niebieski, czerwony i szary.
+4. W skrypcie utwórz funkcje, które zmienią kolor tła na te z przycisków. 
+5. W skrypcie utwórz akapity (4), które po naciśnięciu będa zmieniały kolor na odpowiednio: fioletowy, beżowy, różowy, żółty.
