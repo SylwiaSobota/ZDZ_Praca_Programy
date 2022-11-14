@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Oblicz delte</title>
+    </head>
+    <body>
+        <h1>Uzupełnij formularz, aby obliczyć wartość funkcji</h1>
+        
+            <label>Podaj x: <input type="number" id="liczX"></label><br>
+            <button onclick="oblicz()">Oblicz</button>
+            <p id="wynik"></p>
+        
+        <script type="text/javascript">
+                function oblicz()
+                {
+                    var x = document.getElementById("liczX").value;
+                    var wynik  = x*x - 6*x -5;
+                    document.getElementById("wynik").innerHTML = wynik;
+                }
+        </script>
+    </body>
+</html>
+
