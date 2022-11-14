@@ -1,0 +1,12 @@
+Wykorzystując bazę danych samochody wykonaj nastęujące zadania:
+1. Utwórz plik samochody.php.
+2. Zadeklaruj kodowanie polskich znaków.
+3. W liscie punktowanej wypisz markę i model samochodów znajdujących się w bazie danych w tabeli samochody. Do tego celu wykorzystaj użytkownika root bez hasła. Lista ma być generowana skryptem
+
+Wykorzystując bazę danych sklep:
+1. Utwórz plik sklep.php
+2. Zadeklaruj polskie znaki 
+3. Nadaj tytuł sklep.
+4. Połącz się z bazą danych sklep, wykorzystując użytkownika root bez hasła. 
+5. Wyświetl wszystkie nazwy wraz z ich cena pobrane z atbeli towary w formie tabeli. 
+6. Utwórz odnośnik do strony towary z dostawcami (plik dostawcy.php). Strona wyświetla w formie tabeli nazwy towarów z cenami i dostawcami. W zapytaniu należy utworzyć relację. 
