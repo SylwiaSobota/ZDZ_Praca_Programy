@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Oblicz delte</title>
+    </head>
+    <body>
+        <h1>Uzupełnij formularz, aby obliczyć pierwiastki równania kwadratowego</h1>
+        
+            <label>Podaj a: <input type="number" id="liczA"></label><br>
+            <label>Podaj b: <input type="number" id="liczB"></label><br>
+            <label>Podaj c: <input type="number" id="liczC"></label><br>
+            <button onclick="oblicz()">Oblicz</button>
+            <p id="wynik"></p>
+        
+        <script type="text/javascript">
+            function oblicz()
+            {
+            var a = document.getElementById("liczA").value;
+            var b = document.getElementById("liczB").value;
+            var c = document.getElementById("liczC").value;
+            var delta = b*b - 4*a*c;
+            if (delta <0)
+            {document.write("Brak pierwiastków");}
+            else if (delta ==0)
+            {
+               var  x0= (-b)/(2*a);
+                document.write("Jest jeden pierwiastek równy "+ x0);
+            }
+            else 
+            {
+                var x1 = (-b - Math.sqrt(delta))/2*a;
+                var x2 = (-b + Math.sqrt(delta))/2*a;
+                document.write("są 2 pierwiastki: " + x1 + " i "+ x2);
+            }
+            }            
+        </script>
+    </body>
+</html>
