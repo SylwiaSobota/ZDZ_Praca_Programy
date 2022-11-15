@@ -8,5 +8,5 @@ Wykorzystując bazę danych sklep:
 2. Zadeklaruj polskie znaki 
 3. Nadaj tytuł sklep.
 4. Połącz się z bazą danych sklep, wykorzystując użytkownika root bez hasła. 
-5. Wyświetl wszystkie nazwy wraz z ich cena pobrane z atbeli towary w formie tabeli. 
-6. Utwórz odnośnik do strony towary z dostawcami (plik dostawcy.php). Strona wyświetla w formie tabeli nazwy towarów z cenami i dostawcami. W zapytaniu należy utworzyć relację. 
+5. Wyświetl wszystkie nazwy wraz z ich cena pobrane z tabeli towary w formie tabeli. 
+6. Utwórz odnośnik do strony towary z dostawcami (plik dostawcy.php). Strona wyświetla w formie tabeli nazwy towarów z cenami i nazwami dostawcy. W zapytaniu należy utworzyć relację. 
