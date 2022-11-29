@@ -1,0 +1,2 @@
+Zaprojektuj formularz kontaktowy dla serwisu komputerowego. 
+Ma się w nim znaleźć pole imie, nazwisko, treść zgłoszenia, kategoria, która będzie polem wyboru z następujących: sprzęt, oprogramowanie, inne, oraz pole numer telefonu i adres email.
