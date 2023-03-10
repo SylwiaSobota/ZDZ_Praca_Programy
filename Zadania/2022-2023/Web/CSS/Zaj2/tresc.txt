@@ -1,0 +1,12 @@
+1. Utworz pliki index.html i styl2.css w folderze Zaj2. 
+2. W pliku HTML:
+- zakoduj polskie znaki
+- dodaj jezyk polski na stronie
+- tytul strony ustaw na Formatowanie tekstu
+- stworz akapit z wzorem na delte
+- stworz akapit z wzorem na pierwiastki rownania kwadratowego
+3. W pliku CSS:
+- ustaw tlo stony na kolor beige
+- ustaw czcionke dla calej strony na times new roman rozmiar 12
+- dla delty: kolor czcionki zielony, rozmiar 17, pogrubiony
+- dla pierwiatow formatowane wlasne
