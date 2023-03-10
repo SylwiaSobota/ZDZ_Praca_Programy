@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
 	<title>Komis Samochodowy</title>
 	<meta charset="utf-8">
@@ -19,7 +18,7 @@
 				$passwd="";
 				$dbname="komis";
 				$polaczenie=mysqli_connect($host,$user,$passwd,$dbname);
-				$sql="SELECT id,marka,model FROM samochody";
+				$sql="SELECT id,marka,model FROM samochody;";
 				$wynik=mysqli_query($polaczenie,$sql);
 				while($wiersz=mysqli_fetch_assoc($wynik))
 				{		
