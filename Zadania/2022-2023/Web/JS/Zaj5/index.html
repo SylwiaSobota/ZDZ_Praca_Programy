@@ -5,19 +5,12 @@
         <title>Oblicz delte</title>
     </head>
     <body>
-        <h1>Uzupełnij formularz, aby obliczyć wartość funkcji</h1>
-        
-            <label>Podaj x: <input type="number" id="liczX"></label><br>
-            <button onclick="oblicz()">Oblicz</button>
-            <p id="wynik"></p>
-        
         <script type="text/javascript">
-                function oblicz()
-                {
-                    var x = document.getElementById("liczX").value;
-                    var wynik  = x*x - 6*x -5;
-                    document.getElementById("wynik").innerHTML = wynik;
-                }
+            var tekst = "Danuta|bez|buta ";
+            var x = tekst.substring(1,9);
+            var y = x.substring(5,6);
+            document.write(tekst +"<br>" + x + "<br>" + y);
+
         </script>
     </body>
 </html>
