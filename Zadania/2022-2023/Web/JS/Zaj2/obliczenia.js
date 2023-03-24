@@ -1,11 +1,16 @@
 var a = parseInt(prompt("Podaj liczbę a: "));
 var b = parseInt(prompt("Podaj liczbę b: "));
 var suma = a+b;
-for (var i=0; i<suma; i++)
-{
-    document.write("Witaj<br>");
-}
+    document.write(suma + "<br>");
 /*napisz skrypt, ktory po podaniu liczby od 1 do 7 wypisze pasujacy do niej dzien tygodnia, np uzytkownik podal liczbe 2 wiec na stronie pojawi się napis wtorek. uzyj switch case. */
+
+
+
+
+
+
+
+
 switch(a)
 {
     case 1:
