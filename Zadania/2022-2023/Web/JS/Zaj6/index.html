@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Pierwszy skrypt na formularzu</title>
+    </head>
+    <body>
+        <p id="tresc"></p>
+        <p id="suma"></p>
+            <label>Podaj a: <input type="text" id="licza" onchange="oblicz()"></label><br>
+            <label>Podaj b: <input type="text" id="liczb" onchange="oblicz()"></label>
+            
+
+            <script type="text/javascript">
+                function oblicz(){
+                    var a = document.getElementsById("licza");
+                    var a1 = parseInt(a.value);
+                    var b = parseInt(document.getElementsById("liczb").value)
+                    var suma = a + b;
+                    document.getElementById("suma").innerHTML = a1;
+                }
+            
+            </script>
+    </body>
+</html>
