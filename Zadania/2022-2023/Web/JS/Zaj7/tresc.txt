@@ -1,0 +1,7 @@
+1. Utworz na pulpicie folder o nazwie "zadanie_nazwisko".
+2. Utworz w folderze plik o nazwie index.html.
+3. Zadeklaruj w nim polskie znaki oraz tytul "Zadanie na ocene"
+4. Utworz akapit z identyfikatorem o wartosci "suma".
+5. W oknach dialogowych pobierz od uzytkownika 3 wartosci. 
+6. Napisz skrypt, ktory zsumuje podane liczby oraz wynik wyswietli w utworzonym akapicie, wpisujac: "suma podanych liczb wynosi <suma>"
+gdzie jako suma wpisze obliczona sume. 
