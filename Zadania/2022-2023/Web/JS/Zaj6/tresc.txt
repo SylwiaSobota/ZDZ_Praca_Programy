@@ -1,6 +1,5 @@
 1. Utwórz plik o nazwie index.html
-2. Umieść w nim akapit o identyfikatorze tresc.
-3. W HTML napisz skrypt, który w akapicie z punktu 2  zapisze 6 razy słowo "witaj" 
+2. Umieść w nim akapit o identyfikatorze suma.
+3. W HTML napisz skrypt, który w akapicie z punktu 2  zapisze 6 razy słowo "witaj". 
 4. W pliku index.html napisz skrypt, ktory doda dwie wartosci podane przez uzytkownika w postaci okna dialogowego z mozliwoscia wprowadzania danych.
 5. W akapicie z id rownym suma wstaw dodawanie z poprzedniego zadania.
-6. Wykonaj podstawowe operacje na 2 liczbach podanych w polach tekstowych HTML, tzn polach input. 
