@@ -13,7 +13,7 @@ int main()
     cout<<"Podaj wiek: "<<endl;
     cin>>wiek;
 
-    cout<<"Nazywam się: "<<imie<<" "<<nazwisko<<"mam "<<wiek<<" lat."<<endl;
+    cout<<"Nazywam się: "<<imie<<" "<<nazwisko<<" mam "<<wiek<<" lat."<<endl;
 
     return 0;
 }
