@@ -11,3 +11,34 @@ gdzie jako suma wpisze obliczona sume.
 1. Utworz plik o nazwie index.html.
 2. Zadeklaruj polskie znaki oraz tytul "Praca z JS - formularze"
 3. Utworz 2 pola input z popdisami liczba a i liczba b 
+
+
+24.05.23
+1. Utworz plik o nazwie zaplata.html
+2. Utworz 2 pola umozliwiajace wprowadzenie danych, pierwsze jako ilosc(pole tekstowe), drugie rodzaj(numeryczne).
+3. Napisz skrypt ktory w akapicie o identyfikatorze zaplata zapisze wysokosc zaplaty za paliwo. w skrypcie uwzglednij:
+rodzaj - diesel podawany jako 1 w polu rodzaj, benzyna podawana jako 2 w polu rodzaj
+ilosc podawana w litrach
+cena podawana jako liczba zmeinnoprzecinkowa, dla diesel stala cena 6,23; dla benzyny stala cena 6,54. 
+
+1. Utworz plik wesele.html
+2. Zamiesc w nim tytul strony koszt wesela
+3. Stworz 2 pola: numeryczne o tresci ilosc gosci oraz opcje do wyboru poprawiny
+4. Skrypt
+Wymagania dotyczące skryptu:
+-Wykonywany po stronie przeglądarki
+-Pobiera dane z obu pól z panelu dolnego (liczbę oraz stan pola typu checkbox)
+-Oblicza na podstawie pobranych wartości koszt wesela, według wytycznych
+- Koszt dla jednej osoby to 100 złotych - W przypadku wyprawiania poprawin, całkowity koszt należy powiększyć o 30%
+-Wyświetla pod przyciskiem tekst: „Koszt Twojego wesela to ... złotych”, gdzie w miejscu kropek wstawiony jest obliczony koszt wesela
+get element by ... .checked
+
+
+
+
+
+
+
+
+
+
