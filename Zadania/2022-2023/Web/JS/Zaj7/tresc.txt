@@ -32,13 +32,3 @@ Wymagania dotyczące skryptu:
 - Koszt dla jednej osoby to 100 złotych - W przypadku wyprawiania poprawin, całkowity koszt należy powiększyć o 30%
 -Wyświetla pod przyciskiem tekst: „Koszt Twojego wesela to ... złotych”, gdzie w miejscu kropek wstawiony jest obliczony koszt wesela
 get element by ... .checked
-
-
-
-
-
-
-
-
-
-
