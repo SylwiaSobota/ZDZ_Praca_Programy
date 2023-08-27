@@ -1,6 +1,10 @@
 p#test {
+    
     color: green;
     font-size: 12px;
     letter-spacing: 3px;
     text-decoration: underline;
+}    
+p#test::before{
+    content: "tekst";
 }
