@@ -5,4 +5,4 @@ c) wynik mnozenia wszystkich liczb
 d) wynik dzielenia pierwszej przez druga pomnozony przez wynik dzielenia trzeciej przez czwarta
 e) potege pierwszej liczby podniesionej do sumy pozostalych
 f) pierwiastek kwadratowy z sumy pierwszej i ostatniej liczby
-g) wartosc bezwzgledna z roznicy ostatniej i przedostatniej podanej 
+g) wartosc bezwzgledna z roznicy ostatniej i przedostatniej podanej |x| 
