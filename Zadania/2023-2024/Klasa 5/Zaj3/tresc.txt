@@ -1,0 +1,12 @@
+1. Utworz plik index.html.
+2. Utworz w pliku formularz posiadajacy 2 pola typu numerycznego oraz jedno pole do wpisania tekstu.
+3. Utworz przycisk o nazwie "wykonaj".
+4. Utworz plik skrypt.js
+5. Pobierz wartosci wprowadzone w pola formularza. 
+6. Napisz program, ktory w zaleznosci od wprowadzonej wartosci w polu tekstowym wykona nastepujace dzialania:
+a) "suma" - dodawanie 2 Liczba
+b) "roznica" - odejmowanie pierwszej od drugiej
+c) "iloczyn" - mnozenie
+d) "iloraz" - dzielenie
+e) "pierwiastek" - pierwiastek z pierwszej liczby o wartosci drugiej 
+f) "potega" - potgega pierwszej liczby do drugiej
