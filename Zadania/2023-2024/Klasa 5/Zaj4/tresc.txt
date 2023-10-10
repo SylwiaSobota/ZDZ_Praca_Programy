@@ -1,0 +1,1 @@
+1. Napisz program, ktory obliczy ilosc cegiel w scianie o podstawie x cegiel i wysokosci y rzedow cegiel, gdzie kazdy kolejny stawiany rzad cegiel jest o z krotszy od poprzedniego. Wartosci x, y, z podaje uzytkownik. 
