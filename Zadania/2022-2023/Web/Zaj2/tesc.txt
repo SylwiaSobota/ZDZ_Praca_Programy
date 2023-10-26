@@ -5,4 +5,4 @@ a) kolorem czerwonym, czcionką pochyloną definicję słowa utopia
 b) kolorem niebieskim, stylem arial, pogrubiony definicję słowa kołowrotek
 c) kolorem zielonym, czcionką podkreśloną, stylem Verdana definicję słowa pióro
 d) kolorem fioletowym, czcionką rozmiaru 5, stylem Courier New definicję słowa informatyka.
-4. Utwórz nowy akapit, gdzie zacytujesz z wikipedii definicje słowa baśń, kolorem czerwonym, czcionka pochylona, pogrubiona, oraz pod akapitem dodasz odnośnik do przeczytania całego artykułu. 
+4. Utwórz nowy akapit, gdzie zacytujesz z wikipedii definicje słowa baśń, kolorem czerwonym, czcionka pochylona, pogrubiona,  
