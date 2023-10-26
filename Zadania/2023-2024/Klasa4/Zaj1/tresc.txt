@@ -1,0 +1,14 @@
+1. Utwórz plik index.html
+2. Napisz szablon strony internetowej, gdzie tytuł widoczny w karcie przeglądarki to Twoje nazwisko. 
+3. W nowym akapicie czcionką nr 6, kolor zielony, styl Courier New, zapisz definicję słowa utopia.
+4. W nowym akapicie napisz i wyjaśnij słowo kołowrotek, czcionka kolor niebieski, pogrubiona, pochylona
+5. Utwórz listę zgodną z poniższym zapisem:
+I. Zupy
+    a. pomidorowa
+    b. ogorkowa
+    c. rosół 
+II. Desery
+    i. sernik na zimno
+    ii. malinowe cudo
+    iii. sernik kajmakowy
+III. Danie dnia
