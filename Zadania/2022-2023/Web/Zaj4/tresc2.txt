@@ -1,0 +1,3 @@
+Zaprojektuj stronę główną z 7 podstronami.
+W każdej z nich zawrzyj informacje o danym kontynencie, nazwa, liczba państw, krajobraz oraz 10 ciekawostek o danym kontynencie.
+NIE UŻYWAJ CSS.
