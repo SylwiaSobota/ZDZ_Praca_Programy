@@ -1,7 +1,7 @@
 1. Utwórz plik o nazwie index.html
 2. Zadeklaruj szablon strony.
 3. Uwzględnij kodowanie polskich znaków
-4. Tytuł strony ustaw na Zajęcia 3 [dzisiejsza data]
+4. Tytuł strony ustaw na Zajęcia 3 
 5. W nowym akapicie wpisz swoje imie i nazwisko, wyśrodkuj, pogrub, ustaw kolor na niebieski i styl czcionki na "Verdana".
 6. W nowym akapicie utwórz nagłówek pierwszego stopnnia, kolor czcionki zielony, rozmiar 7. zapisz w nim nazwę przedmiotu.
 7. Ustaw kolor tła na beige.
