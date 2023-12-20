@@ -1,0 +1,12 @@
+Utwórz plik o nazwie formularze.php
+Zadeklaruj podstawowy szablon strony HTML
+Utwórz formularz z 3 polami tekstowymi oraz następujacych etykietach: liczba a, liczba b, działanie. 
+Pobierz dane z formularza i wyświetl je w akapitach 
+Zmodyfikuj zadanie o wykonywanie kolejnych działań po wpisaniu w pole działanie:
+- suma - dodawanie
+- roznica - odejmowanie
+- iloczyn - mnożenie
+- iloraz - dzielenie
+- potega - potega a do b
+- pierwiastek - pierwiastek kwadratowy a 
+Po wybraniu działania w akapicie wyiwtla się tylko wynik wybranego działania z odpoweidnim zapisem
