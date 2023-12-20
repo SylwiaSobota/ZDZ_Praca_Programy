@@ -1,2 +1,6 @@
 Zaprojektuj formularz kontaktowy dla serwisu komputerowego. 
 Ma się w nim znaleźć pole imie, nazwisko, treść zgłoszenia, kategoria, która będzie polem wyboru z następujących: sprzęt, oprogramowanie, inne, oraz pole numer telefonu i adres email.
+
+
+Zbuduj stronę dla serwisu komputerowego, gdzie w tabeli będzie cennik wykonania usług (min.20), odnośnik do formularza kontaktowego oraz do xkomu, komputrnika, morele.net.
+Strony mają otwierać się w nowej karcie.  
