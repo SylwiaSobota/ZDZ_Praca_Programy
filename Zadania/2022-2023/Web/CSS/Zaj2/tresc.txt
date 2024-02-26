@@ -9,4 +9,4 @@
 - ustaw tlo stony na kolor beige
 - ustaw czcionke dla calej strony na times new roman rozmiar 12
 - dla delty: kolor czcionki zielony, rozmiar 17, pogrubiony
-- dla pierwiatow formatowane wlasne
+- dla pierwiastkow formatowane wlasne
