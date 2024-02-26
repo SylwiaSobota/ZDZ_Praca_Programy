@@ -1,0 +1,14 @@
+p#delta {
+    color: red;
+    font-size: 150%;
+    font-family: 'Courier New', Courier, monospace;
+}
+p#de {
+    color: green;
+    text-align: center;
+}
+h1.nagl{
+    background-color: brown;
+    width: 30px;
+    height: 50px;
+}
